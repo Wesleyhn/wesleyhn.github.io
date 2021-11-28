@@ -40,6 +40,10 @@
   color: #fff;
 }
 
+.formacao-texto a {
+  color: #67dd0a;
+}
+
 .faculdade-lista {
   display: flex;
   flex-wrap: wrap;

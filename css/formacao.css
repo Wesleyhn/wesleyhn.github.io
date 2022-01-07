@@ -41,7 +41,7 @@
 }
 
 .formacao-texto a {
-  color: #67dd0a;
+  color: #3A15BF;
 }
 
 .faculdade-lista {
@@ -80,7 +80,7 @@
   display: block;
   width: 4px;
   height: 20px;
-  background: linear-gradient(#b6f829, #67dd0a);
+  background: linear-gradient(#1A0859, #4218D9);
   position: absolute;
   left: -24px;
 }
